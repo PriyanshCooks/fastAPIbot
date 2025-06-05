@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+sqlalchemy 
+pymysql 
+python-dotenv 
+openai 
+fuzzywuzzy
+Jinja2
+python-multipart
+itsdangerous
