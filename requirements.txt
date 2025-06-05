@@ -8,3 +8,4 @@ fuzzywuzzy
 Jinja2
 python-multipart
 itsdangerous
+python-Levenshtein>=0.12.0
